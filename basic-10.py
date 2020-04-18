@@ -11,3 +11,9 @@ while True:
     print(counter)
     if counter == 10:
         break
+
+#break
+for num in range(100):
+    print(num)
+    if num == 10:
+        break
